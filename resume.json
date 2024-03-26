@@ -1,0 +1,88 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "实习经历",
+    "projectList": "毕业设计",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "个人评价"
+  },
+  "avatar": {
+    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+    "hidden": true
+  },
+  "profile": {
+    "name": "戚哲成",
+    "email": "kasaqi at gmail.com",
+    "mobile": "156519(中国)",
+    "github": "https://github.com/KUD-00",
+    "workExpYear": ""
+  },
+  "educationList": [
+    {
+      "edu_time": [
+        "2020.09.01",
+        "2022.06.30"
+      ],
+      "school": "大连理工大学",
+      "major": "软件工程",
+      "academic_degree": "本科"
+    },
+    {
+      "edu_time": [
+        "2022.09.01",
+        "2024.07.30"
+      ],
+      "school": "日本立命馆大学",
+      "major": "情报理工学部/社会系统设计学科",
+      "academic_degree": "本科"
+    }
+  ],
+  "awardList": [
+    {
+      "award_info": "TOEIC Reading & Listening 935",
+      "award_time": "2023"
+    },
+    {
+      "award_info": "日本语能力试验N2 170",
+      "award_time": "2021"
+    }
+  ],
+  "workExpList": [
+    {
+      "company_name": "株式会社Activalues",
+      "department_name": "体验技术部",
+      "work_time": [
+        "2018.06",
+        null
+      ],
+      "work_desc": "1. 使用React重写表单代码\r\n2. 开发公司内部使用的chrome插件\n"
+    }
+  ],
+  "skillList": [],
+  "projectList": [
+    {
+      "project_name": "大型货车的图像识别与轨迹预测等",
+      "project_role": "毕设",
+      "project_time": "2023.04 - 2024.06",
+      "project_desc": "为了事前预测超大型货车能否拐弯过十字路口，通过无人机拍摄的影像来建立图像识别和轨迹预测模型。",
+      "project_content": ""
+    }
+  ],
+  "workList": [
+    {
+      "project_name": "游戏雷索纳斯的助手网站",
+      "project_time": "2024.03",
+      "project_desc": "通过抓包获得游戏数据，进行计算和展示，提供给玩家参考。",
+      "project_content": ""
+    }
+  ],
+  "aboutme": {
+    "aboutme_desc": "热爱游戏，热爱技术。有较强的学习能力和适应能力。"
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
