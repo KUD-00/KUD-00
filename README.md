@@ -1,5 +1,4 @@
-### Hi there 👋
-
-- 🔭 I’m currently finding jobs ( will graduate in September 2024 )
-- 🌱 I’m currently learning backend/infrastructure
-- 📫 How to reach me: kasa7qi at gmail.com
+- currently finding jobs ( will graduate in September 2024 )
+- learning backend/infrastructure
+- live in Japan/Kyoto or China/Nanjing
+- reach me: kasa7qi at gmail.com
