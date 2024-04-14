@@ -43,8 +43,8 @@
       "award_time": "2023"
     },
     {
-      "award_info": "日本语能力试验N2 170",
-      "award_time": "2021"
+      "award_info": "日语能力N1 ",
+      "award_time": "2022"
     }
   ],
   "workExpList": [
@@ -60,7 +60,7 @@
   "skillList": [
     {
       "skill_name": "React & Next.js",
-      "skill_desc": "即使是后端也懂一些，能做一个功能完整的网站",
+      "skill_desc": "后端也懂些，能做功能完整的网站",
       "skill_level": 89
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "skill_name": "Linux Administration",
-      "skill_desc": "一直在使用，比较熟悉运维相关的工具",
+      "skill_desc": "一直在使用，略懂一些运维相关的工具",
       "skill_level": 89
     }
   ],
@@ -86,7 +86,7 @@
       "project_name": "游戏雷索纳斯的助手网站",
       "project_time": "2024.03",
       "project_desc": "通过抓包获得游戏数据，进行计算和展示，提供给玩家参考。",
-      "project_content": "Next.js + Supabase + TailwindCSS + Vercel"
+      "project_content": "Next.js + Supabase + TailwindCSS + Vercel， 实验性的使用Terraform在AWS上部署了简单的eks集群，使前后端分离的同时，后端间用简单的rpc调用提高性能。但是由于AWS eks费用的问题，仅在实现了基本的部署和服务间通信后就搁置了。"
     }
   ],
   "aboutme": {
