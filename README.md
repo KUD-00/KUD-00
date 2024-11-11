@@ -1,4 +1,4 @@
-- currently finding jobs ( will graduate in September 2024 )
-- learning backend/infrastructure
-- live in Japan/Kyoto or China/Nanjing
+- live in Japan/Tokyo or China/Nanjing
+- love techs and games(especially anime games), code for fun
+- speak mandarin/japanese/english
 - reach me: kasa7qi at gmail.com
